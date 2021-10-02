@@ -1,3 +1,7 @@
+#InstaLikeCount (https://github.com/KentoNanami/InstaLikesCount) : 
+
+I hope this program will make you realise the time you've lost on social media
+
 ## Requirements : 
 
 ```sh
