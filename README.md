@@ -25,4 +25,4 @@ First of all, you must follow these few steps, on your instagram account :
  
  3 - Normally, Instagram will send you a link to download your data so take it and find the file "liked_posts.html"
  
- 4 - Now, copy it in a new file file with the python program and run it
+ 4 - Now, copy it in a new file with the python program and run it
